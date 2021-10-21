@@ -1,0 +1,27 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: cadetblue;
+}
+
+a {
+  color: #00B7FF;
+}
+.card {
+  width: 200px;
+  height: 250px;
+}
+
+.card-container {
+  margin-left:auto;
+  margin-right:auto;
+  display:flex;
+  justify-content: space-between;
+  width: 968px;
+}
+img {
+  width: 200px;
+}
+img:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,48,45,34);
+}
